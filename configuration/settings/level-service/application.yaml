@@ -1,1 +1,14 @@
-me-awesome-property: awesome dude!
+my-awesome-property: awesome dude!
+level:
+  config:
+    1: 0
+    2: 100
+    3: 500
+    4: 1000
+    5: 2500
+    6: 5000
+    7: 10000
+    8: 50000
+    9: 100000
+    10: 300000
+    11: 1000000
