@@ -1,7 +1,7 @@
 my-awesome-property: awesome dude!=123123
 level:
   config:
-    requierdExp:
+    requiredExp:
       1: 0
       2: 100
       3: 500
