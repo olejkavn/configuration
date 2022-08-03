@@ -1,4 +1,4 @@
-my-awesome-property: awesome dude!
+my-awesome-property: awesome dude!=123123
 level:
   config:
     requierdExp:
