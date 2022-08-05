@@ -3,7 +3,7 @@ collectibles:
     - id: 1
       name: "Animals"
       cards:
-        - id: : 1
+        - id: 1
           name: "Eagle"
         - id: 2
           name: "Cormorant"
